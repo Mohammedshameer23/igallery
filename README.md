@@ -1,4 +1,4 @@
-# Ex.07 Design of Interactive Image Gallery
+# Ex.08 Design of Interactive Image Gallery
 ## Date: 25/11/2025
 ## ref no: 25011192
 
